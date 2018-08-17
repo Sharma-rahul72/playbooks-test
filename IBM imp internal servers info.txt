@@ -1,0 +1,14 @@
+::1 localhost loopback
+127.0.0.1 loopback localhost # loopback (lo0) name/address
+10.100.238.10 defaultgateway
+10.100.238.31 hilibmnim01.qiagen.ads hilibmnim01
+192.168.173.33 hilibmnim03
+192.168.173.34 hilibmnim04
+192.168.173.23 hilhmc03
+192.168.173.24 hilhmc04
+192.168.173.41 hilibmbackup01
+192.168.173.42 hilibmbackup02
+192.168.173.45 hilibmvio3a
+192.168.173.46 hilibmvio4a
+192.168.173.47 hilibmvio3b
+192.168.173.48 hilibmvio4b
